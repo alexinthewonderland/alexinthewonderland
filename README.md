@@ -11,7 +11,7 @@ Skills: Quantum Mechanics / Numerical Methods/ Python
 - 📫 How to reach me: makurniawan@connect.ust.hk 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexinthewonderland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mikealexanderk//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexinthewonderland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mikealexanderk//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexinthewonderland)](https://github.com/anuraghazra/github-readme-stats)
 
