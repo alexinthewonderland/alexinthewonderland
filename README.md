@@ -7,7 +7,7 @@ I am a penultimate student at Hong Kong University of Science and Technology fro
 Skills: Quantum Mechanics / Numerical Methods/ Python
 
 - 🔭 I’m currently working on https://github.com/alexinthewonderland/transverse-ising-model. 
-- 📫 How to reach me: makurniawan@connect.ust.hk 
+- 📫 How to reach me: makurniawan@ucsb.edu
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alexinthewonderland)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mikealexanderk//)  
