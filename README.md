@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Alex!
+### Hi there 👋, my name is Michael!
 #### Welcome to my GitHub 😁
 ![Welcome to my GitHub 😁](https://github.com/alexinthewonderland/alexinthewonderland/blob/main/GitHub%20Banner.gif)
 
