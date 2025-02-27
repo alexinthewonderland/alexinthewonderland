@@ -2,7 +2,7 @@
 #### Welcome to my GitHub 😁
 ![Welcome to my GitHub 😁](https://github.com/alexinthewonderland/alexinthewonderland/blob/main/GitHub%20Banner.gif)
 
-I am a penultimate student at Hong Kong University of Science and Technology from the Department of Physics! I am currently under Professor Xi Dai's group working on the Transverse Ising Model under a dynamic oscillating field!
+I am a 1st year PhD student at University of California, Santa Barbara! I am currently under Professor Vojtech Vlcek's group working on non-equilibrium physics and green's functions!
 
 Skills: Quantum Mechanics / Numerical Methods/ Python
 
