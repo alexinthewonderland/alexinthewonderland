@@ -2,7 +2,7 @@
 #### Welcome to my GitHub 😁
 ![Welcome to my GitHub 😁](https://github.com/alexinthewonderland/alexinthewonderland/blob/main/GitHub%20Banner.gif)
 
-I am a 1st year PhD student at University of California, Santa Barbara! I am currently under Professor Vojtech Vlcek's group working on non-equilibrium physics and green's functions!
+I am a 1st year PhD student in the Materials Department at UC Santa Barbara! I am currently under Professor Vojtech Vlcek's group working on non-equilibrium quantum physics and green's functions while applying it to real systems and materials.
 
 Skills: Quantum Mechanics / Numerical Methods/ Python
 
