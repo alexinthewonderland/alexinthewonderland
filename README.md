@@ -6,7 +6,6 @@ I am a 1st year PhD student in the Materials Department at UC Santa Barbara! I a
 
 Skills: Quantum Mechanics / Numerical Methods/ Python
 
-- 🔭 I’m currently working on https://github.com/alexinthewonderland/transverse-ising-model. 
 - 📫 How to reach me: makurniawan@ucsb.edu
 
 
